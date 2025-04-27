@@ -28,10 +28,10 @@ const Contact = () => {
 
 		emailjs
 			.send(
-				"service_jftl0j7", // Replace with your service ID
-				"template_fjqgdbg", // Replace with your template ID
+				"service_t3f94yf", // Replace with your service ID
+				"template_8yl2i0v", // Replace with your template ID
 				formData,
-				"AyCPmCnK3zQEE-7qm" // Replace with your public key
+				"iIlrV2JuyKMEh6ytv" // Replace with your public key
 			)
 			.then(() => {
 				toast.success("Message sent successfully!", { position: "top-left" });
