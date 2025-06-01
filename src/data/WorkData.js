@@ -73,4 +73,15 @@ export const ReactData = [
 		gitlink: "https://github.com/AhmedMu14/Design-codex",
 		site: "https://design-codex.vercel.app/",
 	},
+		{
+		title: "Weather App",
+		desc: "A service-based website for Weather, that provide real time weather.  ",
+		tech: [
+			"React",
+			"Tailwind CSS",
+			"Axios",
+		],
+		gitlink: "https://github.com/AhmedMu14/Design-codex",
+		site: "https://weather-app-lime-six-44.vercel.app/",
+	},
 ];
