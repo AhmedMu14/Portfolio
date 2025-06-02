@@ -61,18 +61,6 @@ export const ReactData = [
 		],
 		site: "https://itechvo.vercel.app/",
 	},
-	{
-		title: "Design Codex",
-		desc: "A service-based website for Design Codex, providing creative design and development solutions.  ",
-		tech: [
-			"React",
-			"Tailwind CSS",
-			"react-toastify",
-			"Email.js",
-		],
-		gitlink: "https://github.com/AhmedMu14/Design-codex",
-		site: "https://design-codex.vercel.app/",
-	},
 		{
 		title: "Weather App",
 		desc: "A service-based website for Weather, that provide real time weather.  ",
