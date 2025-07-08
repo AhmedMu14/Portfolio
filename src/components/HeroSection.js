@@ -104,7 +104,7 @@ const HeroSection = ({ nav, handleNav }) => {
 				variants={contactVariants}
 				initial='hidden'
 				whileInView='visible'>
-				<a href="/Resume.pdf" download="Ahmed Mujahid CV.pdf" className="hero-contact">
+				<a href="/My Resume.pdf" download="Ahmed Mujahid CV.pdf" className="hero-contact">
 					Download CV <BiDownload className="cv-icon" />
 				</a>
 
